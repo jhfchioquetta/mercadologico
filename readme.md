@@ -11,10 +11,10 @@ The project was built by sections. Watching a video tutorial helped a lot, but I
 Most of the sections were made adjusting Bootstrap templates.
 
 Issues: 
-  - I'm currently struggling with css and images failing to load. The files are in a different path than what the code is trying to get, but I still haven't figured how to fix it.
-  - I'm not really sure about how to organize files in GitHub. Using the Git terminal is still a challenge for me, even though I understand what it is and how it works.
+  - Searching about how to publish my webpage on GitHub Pages I've realized that I really needed to commit via terminal, not via browser. That I did and it worked. The problem was GitHub wasn't able to find my files paths because they were inside folders, and my folders haven't been uploaded when I tried via browser.
+  - Reading Git and GitHub documents, searching video tutorials, I was able to upload and publish my webpage successfully.
 
-I guess doing things always comes with its perks. That's why I'm just building stuff, regardless of how much I still have to learn. By just studying and not doing, my fate is to ever be postponing and not learning necessary skills.
+It feels really amazing to me to finally be able to do such a task, which I've never done before.
 
 _______________________________________________________
 
