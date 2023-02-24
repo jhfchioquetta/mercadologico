@@ -17,7 +17,7 @@ Issues:
 It feels really amazing to me to finally be able to do such a task, which I've never done before.
 
 _______________________________________________________
-I'm currently working on this website deployment; you can visit here: http://www.mercadologico.ml/
+I'm currently working on this website deployment; you can visit here: http://www.mercadologico.ml/ <br/>
 ATTENTION: as of february 2023 my website doesn't have an SSL certificate. I'm solving this issue, as well as my image files that have gone missing for some reason.
 
 _______________________________________________________
