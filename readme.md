@@ -13,13 +13,17 @@ Most of the sections were made adjusting Bootstrap templates.
 Issues: 
   - Searching about how to publish my webpage on GitHub Pages I've realized that I really needed to commit via terminal, not via browser. That I did and it worked. The problem was GitHub wasn't able to find my files paths because they were inside folders, and my folders haven't been uploaded when I tried via browser.
   - Reading Git and GitHub documents, searching video tutorials, I was able to upload and publish my webpage successfully.
+  - After completing my website I realized it could be published at GitHub pages, so I did it.
+  - Properly working published via GitHub Pages, I remembered having some unused domains available for testing. I've had some trouble with the SSL certificate but was able to overcome it.
+  - One last thing needed to end the project was to correct all images paths, as they had unnecessary detail that ended up confusing my code.
+  - I'm wondering: the last step isn't always really final. I've discovered quite a mess around the way I was committing updates to GitHub, whether via terminal or browser. Glad to be using VS Code; it helped me a lot to understand what have been done and what to do next.
+  - Done the final commits, opened the website on various devices and I finally can say: it's done.
 
 It feels really amazing to me to finally be able to do such a task, which I've never done before.
 
 _______________________________________________________
-I'm currently working on this website deployment; you can visit here: http://www.mercadologico.ml/ <br/>
 
-Update: SSL certificate and image paths working properly.
+My website is fully deployed. You can visit here: http://www.mercadologico.ml/ <br/>
 _______________________________________________________
 
 Mercadologico is a real brand, created by me, but not a successful one. It has given me a few opportunities, although couldn't find a path to be prosperous so far. Maybe this landing page can be used for something, I still don't know what the future holds for me.
