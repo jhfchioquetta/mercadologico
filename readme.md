@@ -16,7 +16,7 @@ Issues:
   - After completing my website I realized it could be published at GitHub pages, so I did it.
   - Properly working published via GitHub Pages, I remembered having some unused domains available for testing. I've had some trouble with the SSL certificate but was able to overcome it.
   - One last thing needed to end the project was to correct all images paths, as they had unnecessary detail that ended up confusing my code.
-  - I'm wondering: the last step isn't always really final. I've discovered quite a mess around the way I was committing updates to GitHub, whether via terminal or browser. Glad to be using VS Code; it helped me a lot to understand what have been done and what to do next.
+  - I'm wondering: the last step isn't always really final. I've discovered quite a mess around the way I was committing updates to GitHub, whether via terminal or browser. Glad to be using VS Code; it helped me a lot to understand what has   been done and what to do next.
   - Done the final commits, opened the website on various devices and I finally can say: it's done.
 
 It feels really amazing to me to finally be able to do such a task, which I've never done before.
