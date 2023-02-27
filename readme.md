@@ -17,7 +17,13 @@ Issues:
 It feels really amazing to me to finally be able to do such a task, which I've never done before.
 
 _______________________________________________________
+I'm currently working on this website deployment; you can visit here: http://www.mercadologico.ml/ <br/>
+<strong>ATTENTION: as of february 2023 my website doesn't have a SSL certificate. I'm solving this issue, as well as my image files that have gone missing for some reason. </strong>
+
+_______________________________________________________
 
 Mercadologico is a real brand, created by me, but not a successful one. It has given me a few opportunities, although couldn't find a path to be prosperous so far. Maybe this landing page can be used for something, I still don't know what the future holds for me.
+
+You can check my webpage here: https://jhfchioquetta.github.io/mercadologico/
 
 If you like this project, please let me know. I will surely appreciate positive feedback.
